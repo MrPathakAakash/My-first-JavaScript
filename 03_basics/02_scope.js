@@ -45,4 +45,4 @@ const addTwo = function(num){ // Expression functiom
     return num + 2
 }
 // the addOne can be called even above the declaration of addOne
-// but we cant do with the addTwo
+// but we cant do with the addTwo // aka hoisting we will learn in future
